@@ -34,28 +34,55 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
-/*--------------------*/
 
-.bigred{
-	font-size: 20px;
-	color: red;
+
+.st1{
+	min-width: 50%;
+	max-width: 611px;	
+	margin: 53px 619px 33px 50px;
+	border: 1px solid #000;
 }
+.st2{
+	margin: 2px 49px;
+	border: 1px solid #000;
+}
+.st3{
 
-body{font-family: Arial;}
-
-h1{color: #445161; font-size: 30px;}
-h2{color: #445161; font-size: 25px;}
-h3{color: #445161; font-size: 20px;}
-
-.text{line-height: 25px; color: #333333;}
-.text2{color: #333333; font-weight: 700;}
-.text3{color: #ff0000;}
-.text4{color: #333333; font-weight: 400; text-align: right;}
-.text5{color: #333333; text-transform: uppercase;}
-.text6{color: #333333; font-style: italic;}
-.text7{color: #333333; text-decoration: underline;}
-.text8{color: #333333; text-align: center;}
-.text9{color: #333333; font-size: 24px; line-height: 24px;}
-.text10{color: #333333; text-decoration: line-through;}
-.text11{color: #333333; font-family: 'Times New Roman'; }
-.text12{color: #333333; text-shadow: 0px 1px 1px #000000;}
+	margin: 2px 48px;
+	display: inline-block;
+	border: 1px solid #000;
+}
+.st4{
+	margin: 32px 90% 34px 51px;
+	height: 86px;
+	width: 1134px;
+	border: 1px solid #000;
+}
+.st5{
+	margin: 34px 41px 35px 51px;
+	display: inline-block;
+	border: 1px solid #000;
+}
+.st6{
+	display: inline-block;
+	border: 1px solid #000;
+}
+.st7{margin-left: 50px;
+	margin-bottom: 37px;
+	margin-right: 42px;
+	display:inline-block;
+	border: 1px solid #000;
+}
+.st8{
+	display: inline-block;
+	border: 1px solid #000;
+}
+.st9{
+	padding-top: 50px;
+	margin-left: 50px;
+	margin-top: 37px;
+	width: 343px;
+	height: 111px;
+	display: inline-block;
+	border: 1px solid #000;
+}
